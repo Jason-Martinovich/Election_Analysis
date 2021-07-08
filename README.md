@@ -7,6 +7,7 @@ The prupose of this assignment was to help with local election results in Colora
 4. Determine who the winner was based on the popular vote.
 
 The Challenege part of the project also included:
+
 5. Calculate how many votes were cast in each county.
 6. Calculate the percentage of voters in each county.
 7. Determine which county had the largest turnout.
